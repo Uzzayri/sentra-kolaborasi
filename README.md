@@ -6,7 +6,7 @@ Repository bersama praktikum DevOps - Politeknik Negeri Batam.
 | Peran | Nama | Akun GitHub |
 |---|---|---|
 | Maintainer | Uzzayri Hakimy | @Uzzayri |
-| Developer B | Farris Nur Zakki Sulaiman | @Farris10 |
+| Developer B | Farris Nur Zakki Sulaiman | @FarrisNurZakky |
 | Developer A | Haikal Islami Pasya | @Haikal-ai-tech |
 
 ## Daftar Skrip
